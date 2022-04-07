@@ -1,0 +1,23 @@
+
+void main (void)
+{
+	int a, b;
+	scanf("%d", &b);
+
+	a=1;
+
+	/*
+	  comentario 1
+	*/
+
+	while (a<b)
+	{
+		if (2 * $a >= b)
+			printf("punto medio %d\n", a);
+		
+		a++; // este es un comentario de una linea
+
+	}
+
+	// comentario 2
+}
